@@ -1,9 +1,9 @@
 # Projeto 2 CDados
 
 ***Algoritmo de vendas de video games***
-Bruno Paiva
-Leonardo Elias
-Luiz Eduardo Santoro
+Bruno Paiva, 
+Leonardo Elias, 
+Luiz Eduardo Santoro, 
 Paulo Chade
 
 ***Introdução***
